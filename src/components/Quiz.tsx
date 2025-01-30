@@ -74,7 +74,7 @@ const Button = styled.button`
 const QuizTitle = styled.h2`
   font-size: 48px;
   color: white;
-  font-family: "Itim", cursive;
+  font-family: "Poppins", serif;
 `;
 
 const Quiz = ({
